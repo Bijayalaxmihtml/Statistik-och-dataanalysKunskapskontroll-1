@@ -9,6 +9,7 @@ Description-This repository contains a Jupyter Notebook that performs statistica
 
 # Here are the details of the files in this repository:
 
-Statistik-och-dataanalys.ipynb-This Jupyter Notebook contains statistical analysis and data visualization on a car price dataset. The notebook is divided into two main parts: theoretical questions and statistical data analysis.
+- **Statistik-och-dataanalys.ipynb** -This Jupyter Notebook contains statistical analysis and data visualization on a car price dataset. The notebook is divided into two main parts: theoretical questions and statistical data analysis.
 
-IndividualReportKunskapkontroll 1.pdf-This file contains self-evaluation report.
+- **IndividualReportKunskapkontroll 1.pdf**-This file contains self-evaluation report.
+
